@@ -2,7 +2,7 @@
 
 ## 📖 Project Overview
 
-This repository contains the implementation of the paper "SSA-Based Adaptive Infrared-Visible Image Fusion for Ink Enhancement in Ancient Bamboo Slips". The research proposes an adaptive infrared-visible image fusion method based on Sparrow Search Algorithm (SSA) specifically designed for enhancing ink traces in ancient bamboo slips (Jiandu).
+This repository contains the implementation of the paper "SSA-Based Adaptive Infrared-Visible Image Fusion for Ink Enhancement in Ancient Bamboo Slips". The research proposes an adaptive infrared-visible image fusion method based on Salient Spatial Attention (SSA) specifically designed for enhancing ink traces in ancient bamboo slips (Jiandu).
 
 ## 🎯 Research Objectives
 
@@ -37,7 +37,6 @@ Experimental results demonstrate that this method surpasses existing approaches 
 
 **Title**: SSA-Based Adaptive Infrared-Visible Image Fusion for Ink Enhancement in Ancient Bamboo Slips
 
-**Keywords**: Image fusion, Sparrow Search Algorithm, Infrared imaging, Visible light imaging, Ancient bamboo slips, Ink enhancement, Jiandu
 
 ## 📧 Contact
 
