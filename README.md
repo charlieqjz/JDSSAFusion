@@ -44,11 +44,6 @@ Experimental results demonstrate that this method surpasses existing approaches 
 For any questions or suggestions, please contact:
 
 - Email: 2023222207@nwnu.edu.cn
-- GitHub Issues: [Project Issues Page]
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
